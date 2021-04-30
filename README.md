@@ -1,5 +1,4 @@
-Hi there 👋 I'm yepi-bit(程序员椰皮).
-https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif
+## Hi there 👋 I'm yepi-bit(程序员椰皮).
 
 👨🏻‍💻 About Me
 🔭 I’m currently learning Vue and React Application Development
@@ -12,5 +11,6 @@ https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif
 🌐 HTML | CSS | JavaScript | Bootstrap | Vue
 🛢 MySQL | React | Ant Design
 🔧 Visual Studio code | IDEA | Git
+ 
 
  
